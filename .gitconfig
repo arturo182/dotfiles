@@ -1,0 +1,13 @@
+[user]
+	email = arturo182@tlen.pl
+	name = arturo182
+[push]
+	default = matching
+[pull]
+	rebase = true
+[merge]
+	tool = meld
+[core]
+        editor = vim 
+[alias]
+        stats = shortlog -sne
